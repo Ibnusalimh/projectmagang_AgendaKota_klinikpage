@@ -1,9 +1,10 @@
 # Dokumentasi Frontend
 
 
-![Screenshot 2024-09-30 183127](https://github.com/user-attachments/assets/9df07ef9-b747-4b90-8671-b63c2acd32c8)
-
-
+![Screenshot 2024-09-30 183106](https://github.com/user-attachments/assets/95bd5d28-1faa-4fcc-8249-be87692d1ae5)
+![Screenshot 2024-09-30 183114](https://github.com/user-attachments/assets/e63acd07-7918-4dd6-ab58-6e518994780b)
+![Screenshot 2024-09-30 183121](https://github.com/user-attachments/assets/51b8da84-43d7-4cf0-9fc4-697f774149fb)
+![Screenshot 2024-09-30 183127](https://github.com/user-attachments/assets/10173815-b57f-4d5e-8164-df0cce996984)
 
 ## Skrip yang Tersedia
 
